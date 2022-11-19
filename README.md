@@ -1,6 +1,6 @@
 # Resume
 ## Competencies
-A self-driven professional with strong interpersonal skills.
+A self-driven professional with strong interpersonal skills.  
 Ability to meet deadlines demonstrated upon completion of tasks within agreed schedules at previous employment.
 Excellent interpersonal and communication skills, both verbal and written 
 Excellent organizational skills

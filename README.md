@@ -12,7 +12,7 @@ Worked on Website Development -[Website](iaad.in)
 Worked on App Development -[Flutter App](https://github.com/kds888kds/zask)  
 Build a Tableau Project -[Tableau dashboard](https://public.tableau.com/app/profile/karandeep.singh4351/viz/Business-Analysis-Karandeep-Singh-6/Dashboard1)  
 ## About 
-![Image of My Road Map](https://drive.google.com/file/d/1kUIbRnnU6uGH_zAx0nEyUy6c8rDfGjOZ/view?usp=share_link)
+![Image of My Road Map](https://drive.google.com/uc?export=view&id=1kUIbRnnU6uGH_zAx0nEyUy6c8rDfGjOZ)
 ## Technology    
 Python  
 Flutter  
